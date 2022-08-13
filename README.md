@@ -28,6 +28,7 @@ in which you want the downloaded file to be saved between the single quotes.
 And save.
 
 e.g.
+
 stream.download('D:\Download2\YTDownloads')  <-- this won't probably work on your pc
 
 ********************************************************
