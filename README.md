@@ -17,9 +17,10 @@ https://docs.python-guide.org/starting/install3/osx/
 
 ********************************************************
 
-Next you need to install "pytube" by typing in the command line:
+Next you need to install "pytube" and "PySimpleGUI" by typing in the command line:
 
 pip3 install pytube
+pip install pysimplegui
 
 ********************************************************
 
